@@ -12,7 +12,7 @@
     &middot;
     <a href="#how-to-reach-me">Reaching me</a>
     &middot;
-    <a href="#my_stats">My stats</a>
+    <a href="#my-stats">My stats</a>
   </p>
 </div>
 
@@ -59,11 +59,16 @@ To me, AI isn't just a tool; it's a beautiful and fascinating field I want to de
 
 ## Some Technologies I Work With
 
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Libraries & Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![CTranslate2](https://img.shields.io/badge/CTranslate2-0052CC?style=for-the-badge&logo=python&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-717272?style=for-the-badge&logo=onnx&logoColor=white)
+
+### Tools & Utilities
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ## How to Reach Me
 
