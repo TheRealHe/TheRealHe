@@ -1,11 +1,9 @@
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealHe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheRealHe&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealHe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a id="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">Automatic Spanish to English Subtitles Generator</h3>
+  <h3 align="center">👋 Hello! I'm Daniel Rojas</h3>
   <p align="center">
-    I'm a developer passionate about AI, automation, and building practical tools. I enjoy creating end-to-end solutions that solve real-world problems.
+    I'm a developer passionate about **AI**, **automation**, and building practical tools. I enjoy creating end-to-end solutions that solve real-world problems.
     <br />
     <a href="https://github.com/TheRealHe?tab=repositories"><strong>Explore my repositories »</strong></a>
     <br />
@@ -20,6 +18,24 @@
   </p>
 </div>
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealHe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheRealHe&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealHe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## About Me
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Most Important Repositories
+
+| Name | Purpose | Access |
+|---------|---------|--------------|
+| **spanish_to_english_subtitles_generator** | A complete pipeline to generate subtitles with Whisper (+100 languages), translate them with NLLB-200 (+200 languages), and burn specified subtitles into input videos. | [spanish_to_english_subtitles_generator](https://github.com/TheRealHe/spanish_to_english_subtitles_generator) |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Some Technologies I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,9 +48,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/daandev/
 - Email: your.email@example.com
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 - ⚡ Fun fact: ...
 -->
