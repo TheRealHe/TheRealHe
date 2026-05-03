@@ -25,7 +25,7 @@ To me, AI isn't just a tool; it's a beautiful and fascinating field I want to de
 ### My Path Forward
 
 - ✅ **Build useful AI tools**  
-  Already achieved with [spanish_to_english_subtitles_generator](https://github.com/TheRealHe/spanish_to_english_subtitles_generator) a multilingual subtitle generator powered by Whisper and NLLB-200.
+  Already achieved with [Remi-Subtitle-Forge](https://github.com/TheRealHe/Remi-Subtitle-Forge) a multilingual subtitle generator powered by Whisper and NLLB-200.
 
 - 🚀 **Deploy effectively to users around the world**  
   My next goal: take what I've learn and build something accessible, scalable, and truly useful for people across the globe.
@@ -39,7 +39,7 @@ To me, AI isn't just a tool; it's a beautiful and fascinating field I want to de
 
 | Repositoy | Purpose |
 |---------|---------|
-| **[spanish_to_english_subtitles_generator](https://github.com/TheRealHe/spanish_to_english_subtitles_generator)** | A complete pipeline to generate subtitles with Whisper (+100 languages), translate them with NLLB-200 (+200 languages), and burn specified subtitles into input videos. |
+| **[Remi-Subtitle-Forge](https://github.com/TheRealHe/Remi-Subtitle-Forge)** | A complete pipeline to generate subtitles with Whisper (+100 languages), translate them with NLLB-200 (+200 languages), and burn specified subtitles into input videos. |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
